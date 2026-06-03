@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This is a Machine Learning mini-project developed to predict student marks based on study hours using **Linear Regression**. This project follows a standard data science pipeline: Data Creation → Preprocessing → Training → Evaluation → Prediction.
-https://colab.research.google.com/drive/1bDM22pb60FqBfDTK6eJf5rjjk-JPOGNH
+https://colab.research.google.com/drive/1JEmuqgJ5Wqp5SUDT5PORXYvZbZm5G3x4?usp=sharing
 
 ## 📊 Model Visualization
 <img width="3504" height="2426" alt="image" src="https://github.com/user-attachments/assets/98d07213-1cfb-4a5c-90ad-2bbb0a9c9c00" />
